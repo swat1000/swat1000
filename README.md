@@ -1,3 +1,4 @@
+![logo](https://github.com/swat1000/swat1000/blob/main/SWATANTRA%20CHAURASIA.png)
 <h1 align="center">Hi 👋, I'm Swatantra Chaurasiya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
